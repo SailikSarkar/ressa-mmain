@@ -1,0 +1,4 @@
+.blurback {
+backdrop-filter: blur(100px);
+background: #000;
+}
